@@ -1,2 +1,2 @@
-# -pu 2026 :DD
+#pu 2026 :DD
 submiting homework
